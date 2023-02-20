@@ -20,29 +20,23 @@
 <a href="https://github.com/2KAbhishek/file-jump-react/pulse">
 <img alt="Last Updated" src="https://img.shields.io/github/last-commit/2kabhishek/file-jump-react?style=flat&color=e06c75&label="> </a>
 
-<h3>Short sweet headline with 🎇🎉</h3>
-
-<figure>
-  <img src= "images/screenshot.png" alt="file-jump-react Demo">
-  <br/>
-  <figcaption>file-jump-react screenshot</figcaption>
-</figure>
+<h3>Frontend for File Sharing Platform 🪩📄</h3>
 
 </div>
 
 ## What is this
 
-file-jump-react is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+file-jump-react is the frontend component for file-jump created using React
 
 ## Inspiration
 
-file-jump-react was inspired by `<reason/idea>`.
+Needed a file sharing platform after Firefox send shut down, made this
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- You have installed the latest version of `npm`
 
 ## Getting file-jump-react
 
@@ -51,51 +45,17 @@ To get file-jump-react, follow these steps:
 ```bash
 git clone https://github.com/2kabhishek/file-jump-react
 cd file-jump-react
-<install_command>
-```
-
-## Using file-jump-react
-
-```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
-
-FLAGS:
-    -h, --help              Prints help information.
-
-OPTIONS:
-    -o, --option <value>    Option description.
-    Options are: a, b. [default: a]
-
-Example:
-
-
+npm install
+npm start
 ```
 
 ## How it was built
 
-file-jump-react was built using `<tech/library>`
-
-## Challenges faced
-
-While building file-jump-react the main challenges were `<issue/difficulty>`
+file-jump-react was built using `neovim, react`
 
 ## What I learned
 
-While building file-jump-react I `<learned/accomplished>` about `<learning/accomplishment>`
-
-## What's next
-
-Planning to add `<feature/module>`.
-
-### To-Do
-
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
-- [ ] Change me
-- [ ] Update README
-- [ ] Finish it
+- Integrated Spring with React frontend.
 
 Hit the ⭐ button if you found this useful.
 
